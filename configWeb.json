@@ -1,0 +1,112 @@
+{
+  "infoCompany": {
+    "name": "Interfaz",
+    "contact": {
+      "mail": [
+        {
+          "name": "info",
+          "link": "info@interfaz.com"
+        },
+        {
+          "name": "contact",
+          "link": "contacto@interfaz.com"
+        }
+      ],
+      "whatsapp": [
+        {
+          "position": "header",
+          "text": "Hola,%20Jorge%20deseo%20contactarme%20contigo",
+          "number": "51984162726"
+        },
+        {
+          "position": "contact",
+          "text": "Hola,%20Jorge%20deseo%20contactarme%20contigo",
+          "number": "51984162726"
+        },
+        {
+          "position": "survey",
+          "text": "Hola,%20Jorge%20deseo%20contactarme%20contigo",
+          "number": "51984162726"
+        }
+      ]
+    }
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "BRANDING DIGITAL",
+      "imagen": "/svg/branding-2.svg",
+      "description": "Toda idea de producto o servicio debe conceptualizarse y tener un identidad propia que refleje los beneficios de las personas y que conecte con ellas. Para ello, se debe estudiar y anilizar los pensamientos y comportamientos de los usuarios antes de diseñar una maqueta o prototipo de una interfaz o producto digital."
+    },
+    {
+      "id": 2,
+      "name": "DISEÑO Y DESARROLLO DE INTERFACES DIGITALES",
+      "imagen": "/svg/devices.svg",
+      "description": "Con una idea estudiada y analizada se puede llegar a un diseño de prototipo final de una interfaz digital (web, app, ecommerce o software). Este diseño será la líena base de trabajo para la etapa programacación y desarrollo del producto.<br/><br/>En la etapa de porgramación y desarrollo, se da vida y funcionalidad a la interfaz digital, tomando como insumos: el estudio del producto,  requerimientos, diseño de maquetas y protipos, modelos de datos y reglas del negocio.<br/><br/>Con esta etapa cuncluida, el producto digital (web, app, ecommerce o software) estará listo para ser lanzado y utilizado por tus clientes.<br/><br/><h2><strong>¿Qué productos desarrollamos?</strong></h2><ul><li>Páginas web / Web APPs</li><li>Landing page (para objetivo o campañas especificas)</li><li>ecommerce (venta de productos/servicios en internet con tarjetas de crédito o débito y billeteras QR)</li><li>Software para procesos de negocios (desde un sistema de ventas hasta un sistema de almacen y más)</li><li>Integraciones con sistemas de facturación electrónica (integramos tu sistema con: NubeFact o Efact)</li><li><strong>Y más ideas de productos ...</strong></li></ul>"
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "name": "Arquiexpress",
+      "category": "landings",
+      "thumbnail": "/img/arquiexpress.jpg",
+      "link": "/"
+    },
+    {
+      "id": "project-2",
+      "name": "Kuntur Sumaq",
+      "category": "branding",
+      "thumbnail": "/img/kuntur.jpg",
+      "link": "/"
+    },
+    {
+      "id": "project-3",
+      "name": "Cieneguilla Travel Tours",
+      "category": "branding",
+      "thumbnail": "/img/cieneguilla.jpg",
+      "link": "/"
+    },
+    {
+      "id": "project-4",
+      "name": "Dabambú",
+      "category": "webs",
+      "thumbnail": "/img/dabambu.jpg",
+      "link": "/"
+    },
+    {
+      "id": "project-5",
+      "name": "Circolo Sportivo Italiano",
+      "category": "landings",
+      "thumbnail": "/img/csi.jpg",
+      "link": "/"
+    }
+  ],
+  "surveys": {
+    "demos": [
+      {
+        "id": 1,
+        "project": "Cieneguilla",
+        "img": "/img/cieneguilla.jpg",
+        "url": "https://www.google.com"
+      },
+      {
+        "id": 2,
+        "project": "Dabambu",
+        "img": "/img/dabambu.jpg",
+        "url": "https://www.google.com"
+      },
+      {
+        "id": 3,
+        "project": "Arquiexpress",
+        "img": "/img/arquiexpress.jpg",
+        "url": "https://www.google.com"
+      }
+    ]
+  },
+  "MenzajesWhatsApp": {
+    "Wsspheader": "https://api.whatsapp.com/send?phone=51984162726&text=Hola,%20Jorge",
+    "WsspContacto": "https://api.whatsapp.com/send?phone=51984162726&text=Hola,%20Jorge",
+    "Wsspencuestas": "https://api.whatsapp.com/send?phone=51984162726&text=Hola,%20Jorge"
+  }
+}
